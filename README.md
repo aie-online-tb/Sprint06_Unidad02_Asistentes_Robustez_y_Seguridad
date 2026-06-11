@@ -1,6 +1,6 @@
-# Proyecto ejemplo: Asistente seguro (Robustez y seguridad)
+# Proyecto ejemplo: Asistente seguro - Robustez y seguridad
 
-Demo ejecutable en Python de un **tutor de Python** que recibe mensajes de usuario y llama a **Gemini**. El objetivo pedagógico no es “hacer un chat bonito”, sino ver **cómo endurecer un asistente** cuando el usuario puede escribir **cualquier texto** — incluidos intentos de **prompt injection**.
+Demo ejecutable en Python de un **tutor de Python** que recibe mensajes de usuario y llama a **Gemini**. El objetivo pedagógico es ver **cómo endurecer un asistente** cuando el usuario puede escribir **cualquier texto** — incluidos intentos de **prompt injection**.
 
 **Requisitos:** Python 3.10+.
 
